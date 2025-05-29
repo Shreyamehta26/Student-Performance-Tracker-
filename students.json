@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Shreya Mehta",
+        "roll_number": "35",
+        "grades": {
+            "English": 85.0
+        }
+    },
+    {
+        "name": "Samuel ",
+        "roll_number": "36",
+        "grades": {
+            "Maths": 90.0
+        }
+    },
+    {
+        "name": "Sumit Bhardwaj",
+        "roll_number": "37",
+        "grades": {
+            "Science": 91.0
+        }
+    },
+    {
+        "name": "Sakshi Gandhi",
+        "roll_number": "38",
+        "grades": {
+            "Computer": 82.0
+        }
+    },
+    {
+        "name": "Shreya",
+        "roll_number": "1",
+        "grades": {
+            "English": 75.0
+        }
+    },
+    {
+        "name": "Samuel",
+        "roll_number": "2",
+        "grades": {
+            "Maths": 80.0
+        }
+    },
+    {
+        "name": "Sumit",
+        "roll_number": "3",
+        "grades": {
+            "Computer": 85.0
+        }
+    },
+    {
+        "name": "Sakshi",
+        "roll_number": "4",
+        "grades": {
+            "Science": 92.0
+        }
+    }
+]
